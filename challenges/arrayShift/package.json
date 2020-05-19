@@ -1,0 +1,15 @@
+{
+  "name": "arrayShift",
+  "version": "1.0.0",
+  "description": "make a function to add num to an array and the location of this element in the middle of the array. ## Challenge the challenge was in how to put the add element in the middle of the array.",
+  "main": "array-shift.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}

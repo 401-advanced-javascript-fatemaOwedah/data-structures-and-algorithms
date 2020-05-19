@@ -1,0 +1,23 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "Class    | Link ---------|--------- CodeChallenge-01 | [CodeChallenge-01](/challenges/arrayReverse/array-reverse.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-fatemaOwedah/data-structures-and-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-fatemaOwedah/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-fatemaOwedah/data-structures-and-algorithms#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
